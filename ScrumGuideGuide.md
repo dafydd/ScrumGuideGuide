@@ -130,14 +130,14 @@ characteristics:
 - understanding & practising agility
 - facilitating Scrum Events as needed/requested
 
-### helps Dev Team
+### helps Dev Team:
 - coaching Dev Team in self-organisation/X-functionality
 - help create high-value products
 - remove impediments
 - facilitating Scrum Events as requested/needed
 - coaching Dev Team in orgs where Scrum not fully adopted/understood
 
-### helps Org
+### helps Org:
 - leading/coaching Scrum adoption
 - planning Scrum implementation in Org
 - help employees & stakeholders understand & enact Scrum & empirical product development
@@ -193,12 +193,12 @@ characteristics:
   - within time-box
 
 planning questions:
-- What can be delivered in Sprint?
+- **What can be delivered in Sprint?**
   - inputs: product backlog, latest product increment. projected Dev Team capacity, past perf,
   - number of items **soley** up to Dev Team
   - **only Dev Team assesses what it can accomplish** in Sprint
   - Scrum Team creates Sprint Goal - provides guidance on why doing the Product Increment
-- How will work be achieved?
+- **How will work be achieved?**
   - Dev Team decide how to build functionality to "Done" Increment
   - "Sprint Backlog" = PBIs selected for Sprint + plan for delivering them
   - work decomposed by end of planning
