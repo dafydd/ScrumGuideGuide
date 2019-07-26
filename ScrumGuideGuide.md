@@ -8,6 +8,7 @@ November 2017
 # quick facts
 time boxes:
 - 1 cal. mo - Sprint
+- 8 hr - Sprint Planning 
 - 15 min - Daily Scrum
 - 4 hr - Sprint Review
 - 3 hr - Sprint Retrospective
