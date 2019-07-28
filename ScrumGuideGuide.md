@@ -7,18 +7,19 @@ November 2017
 
 # quick facts
 time boxes:
+
 - 1 cal. mo - Sprint
 - 8 hr - Sprint Planning 
 - 15 min - Daily Scrum
 - 4 hr - Sprint Review
 - 3 hr - Sprint Retrospective
 
-pillars (TIA):
+#### pillars (TIA):
 1. Transparency
 2. Inspection
 3. Adaptability
 
-values (CCFOR):
+#### values (CCFOR):
 1. Comittment
 2. Courage
 3. Focus
@@ -109,6 +110,7 @@ values (CCFOR):
 - structured & empowered to manage their own work
 
 characteristics:
+
 - are self-organising (nobody tells Dev Team how to turn PBIs into releasable product increment)
 - cross-functional with all skills needed
 - Scrum recognises no Dev Team titles regardless of work done
@@ -193,7 +195,7 @@ characteristics:
   - people understand what's happening
   - within time-box
 
-planning questions:
+#### planning questions:
 - **What can be delivered in Sprint?**
   - inputs: product backlog, latest product increment. projected Dev Team capacity, past perf,
   - number of items **soley** up to Dev Team
@@ -210,7 +212,7 @@ planning questions:
 - Dev Team can invite other tech/domain experts for advice
 - by end of Sprint Planning - Dev Team should be able to explain how to create the Product Increment
 
-Sprint Goal
+#### Sprint Goal
 - guidance to why it's being built
 - created during Sprint Planning
 - gives Dev Team flexibiliy on implementation
@@ -251,7 +253,7 @@ Sprint Goal
   - enforcing time-box
 - Scrum Master participates as team peer - w/ accountability over process
 
-purpose
+#### purpose
 - inspect last Sprint re: people, relationships, process & tools
 - identify & order major items - went well, potential improvements
 - plan for implementing improvements to Scrum Team ways of working
@@ -291,7 +293,7 @@ purpose
 - is highly visible, real-time picture of work Dev Team plans to do in Sprint
 - ... belongs soley to Dev Team
 
-Monitoring Progress
+#### Monitoring Progress
 - total work remaining can be summed at all times in Sprint
 - Dev Team tracks total worked remaining - at least per Daily Scrum
 - ... likelihood of meeting Sprint Goal
